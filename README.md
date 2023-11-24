@@ -13,3 +13,13 @@ stuff
 **Module 03:** Inheritance
 
 **Module 04:** Subtype polymorphism, abstract classes, interfaces
+
+**Module 05:** Catch, throw and exceptions
+
+**Module 06:** Severals cast methodes, dynamic, static, reinterprete...
+
+**Module 07:** Introduction to Template and generic functions
+
+**Module 08:** Containers template and iterators
+
+**Module 09:** STL comprehension through severals templates usage
